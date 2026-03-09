@@ -1,2 +1,3 @@
-Flipbook Preview
-https://suryakantkardam.github.io/FrontendPlugins/flipbook/
+## Flipbook Preview
+
+<a href="https://suryakantkardam.github.io/FrontendPlugins/flipbook/" target="_blank">Preview</a>
